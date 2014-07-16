@@ -26,6 +26,7 @@
     "npm": "1.2.x"
   },
   "dependencies": {
+    "jasmine-node": "= 1.14.2",
     "connect": ">= 1.8.x",
     "express": "3.x",
     "jade": ">=0.26.3",
